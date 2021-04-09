@@ -1,0 +1,8 @@
+<root>
+	<params>
+		<max_velocity value="100"> </max_velocity>
+		<max_acceleration value="180"> </max_acceleration>
+		<dest_radius value="1"> </dest_radius>
+		<targetPosition x="300" y="200"> </targetPosition>
+	</params>
+</root>
